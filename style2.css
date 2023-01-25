@@ -1,0 +1,183 @@
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+font-family: 'Varela Round', sans-serif;
+font-size: 16px;
+line-height: 1.6;
+color: #868F9B;
+text-align: center;
+box-sizing: border-box;
+
+
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+font-family: 'Varela Round', sans-serif;
+font-size: 16px;
+line-height: 1.6;
+color: #868F9B;
+cursor: pointer;
+list-style: none;
+box-sizing: border-box;
+margin: 0 0 10px;
+
+
+
+
+
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+font-family: 'Varela Round', sans-serif;
+font-size: 16px;
+line-height: 1.6;
+text-align: center;
+cursor: pointer;
+box-sizing: border-box;
+display: block;
+padding: 40px 0px 20px;
+text-transform: uppercase;
+transition: 0.2s color;
+color: #6195FF;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- - ====== Portfolio Section Start ====== --->
+        <section class="portfolio section" id="portfolio">
+            <div class="container">
+              <div class="row">
+                <div class="section-title padd-15">
+                  <h2>Portfolio</h2>
+                </div>
+              </div>
+              <div class="row">
+                <div class="portfolio-heading padd-15">
+                  <h2>My Recent Projects :</h2>
+                </div>
+              </div>
+              <div class="row">
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56qug-cl42gIs52OWOgFQAjvaNiE6sCdv36Ar7QBn&s" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56qug-cl42gIs52OWOgFQAjvaNiE6sCdv36Ar7QBn&s" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56qug-cl42gIs52OWOgFQAjvaNiE6sCdv36Ar7QBn&s" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56qug-cl42gIs52OWOgFQAjvaNiE6sCdv36Ar7QBn&s" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56qug-cl42gIs52OWOgFQAjvaNiE6sCdv36Ar7QBn&s" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="./images/Portfolio/P12.jpg" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="./images/Portfolio/A.png" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="./images/Portfolio/form.png" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="./images/Portfolio/footer.png" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="./images/Portfolio/G.jpg" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="./images/Portfolio/P4.png" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+                <!--- ====== Portfolio item Start ====== --->
+                <div class="portfolio-item padd-15">
+                  <div class="portfolio-item-inner shadow-dark">
+                    <div class="portfolio-img">
+                      <img src="./images/Portfolio/P7.png" alt="" />
+                    </div>
+                  </div>
+                </div>
+                <!--- ====== Portfolio item End ====== --->
+              </div>
+            </div>
+          </section>
+          <!--- ====== Portfolio Section End ====== - -->

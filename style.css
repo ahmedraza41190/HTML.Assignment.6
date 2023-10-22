@@ -2,7 +2,7 @@
     /* height: 625px; */
     height: auto;
     width: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url("https://www.expertizo.pk/img/background1.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url("./img/background4.jpg");
     color: white;
     padding-bottom: 8%;
     padding-top: 10px;
@@ -362,3 +362,4 @@ line-height: 1.1;
     padding-bottom: 1%;
     color: rgb(190, 188, 188);
 }
+
